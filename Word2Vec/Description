@@ -1,0 +1,8 @@
+Both BOW and TF-IDF approach do not store the semantic information. TF-IDF gives importance to uncommon words.
+
+There is a definite chance of overfitting.
+
+In Word2Vec, each word is basically represented as a vector of 32 or more dimension instead of a single number.
+
+Here, the Semantic information and relation between different words is also preserved.
+
