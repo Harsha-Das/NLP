@@ -16,6 +16,6 @@ train.csv: A full training dataset with the following attributes:
         1: unreliable
         0: reliable
 
-test.csv: A testing training dataset with all the same attributes at train.csv without the label.
+test.csv: A testing dataset with all the same attributes at train.csv without the label.
 
-submit.csv: A sample data
+train.csv: A dataset for training the dataset.
